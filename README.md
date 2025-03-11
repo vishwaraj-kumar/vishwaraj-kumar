@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwaraj-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="vishwaraj-kumar" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1ZKGNHpDg2abriMsUlqO4X9jfoaSDJs7w?usp=drive_link](https://drive.google.com/drive/folders/1ZKGNHpDg2abriMsUlqO4X9jfoaSDJs7w?usp=drive_link)
+- 👨‍💻 All of my projects are available at <br><a href="https://drive.google.com/drive/folders/1ZKGNHpDg2abriMsUlqO4X9jfoaSDJs7w?usp=drive_link" target="_blank">🔗 Check Out My Work</a> 
 
-- 📄 Know about my experiences <br><a href="https://drive.google.com/file/d/1dl7brTX-Pi8sMyDlqroy6mA1mLuiQUZ4/view" target="_blank" rel="noopener noreferrer">Click Here</a>
+- 📄 Know about my experiences <br><a href="https://drive.google.com/file/d/1dl7brTX-Pi8sMyDlqroy6mA1mLuiQUZ4/view" target="_blank">📜 View My Resume</a>
 
 
 <h3 align="left">Connect with me:</h3>
