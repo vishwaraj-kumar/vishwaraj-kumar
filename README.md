@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at <br><a href="https://drive.google.com/drive/folders/1ZKGNHpDg2abriMsUlqO4X9jfoaSDJs7w?usp=drive_link" target="_blank">🔗 Check Out My Work</a> 
 
-- 📄 Know about my experiences <br><a href="https://drive.google.com/file/d/1dl7brTX-Pi8sMyDlqroy6mA1mLuiQUZ4/view" target="_blank">📜 View My Resume</a>
+- 📄 Know about my experiences <br><a href="https://drive.google.com/file/d/1CJWnYY-ZkDYeyAULhP53-vIkRce7xHg0/view?usp=drive_link" target="_blank">📜 View My Resume</a>
 
 
 <h3 align="left">Connect with me:</h3>
