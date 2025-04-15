@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vishwaraj Kumar</h1>
 <h3 align="center">🚀 A passionate learner with an engineering background, exploring the world of Cloud Computing and DevOps</h3>
 
-<img align="right" alt="cloud computing" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
+<img align="right" src="Coder.gif" alt="Coder Gif Image" width="400">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=vishwaraj-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="vishwaraj-kumar" />
