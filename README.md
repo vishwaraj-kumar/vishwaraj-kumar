@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vishwaraj Kumar</h1>
 <h3 align="center">A dedicated learner with a strong engineering background, currently focusing on Cloud Computing to build a future in the tech industry.</h3>
 
-<img align="right" src="Codeer.gif" alt="Coder Gif Image" width="400">
+<img align="right" src="Coder.gif" alt="Coder Gif Image" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwaraj-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="vishwaraj-kumar" /> </p>
 
