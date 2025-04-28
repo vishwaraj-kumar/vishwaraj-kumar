@@ -40,11 +40,12 @@
 
 | Project Name | Description | Tech Used | Link |
 |--------------|-------------|-----------|------|
+| **Kubernetes DevOps Assignment** | Containerized a Hello World web app using Docker, built a custom Docker image, deployed it on a local Kubernetes cluster using Kind, and exposed it using Kubernetes Deployment and Service YAMLs. | Docker, Kubernetes, Kind, YAML, Port Forwarding | [🔗 GitHub Repo](https://github.com/vishwaraj-kumar/xivtech-kubernetes-devops-assignment) |
 | **Static Website Hosting on S3** | Hosted a static website on Amazon S3 with public access, versioning, and custom bucket policy configuration. | AWS S3, HTML, Bucket Policy | [🔗 GitHub Repo](https://github.com/vishwaraj-kumar/aws-s3-static-website-hosting) |
 | **EC2 Web Server Deployment** | Launched an EC2 instance, installed Apache, set up Elastic IP, configured security groups and deployed a sample website. | AWS EC2, Apache, SSH, Elastic IP | [🔗 GitHub Repo](https://github.com/vishwaraj-kumar/ec2-web-server-deployment) |
 | **IAM User Management System** | Created and managed IAM users, groups, roles, and custom policies with least privilege access and MFA for enhanced security. | AWS IAM, CLI, MFA, IAM Policies | [🔗 GitHub Repo](https://github.com/vishwaraj-kumar/aws-iam-user-management-system) |
 | **AWS CloudFormation for Infrastructure as Code** | Deployed and managed cloud infrastructure (EC2, S3, RDS) using version-controlled CloudFormation templates for automated provisioning. | AWS CloudFormation, EC2, S3, RDS, YAML | [🔗 GitHub Repo](https://github.com/vishwaraj-kumar/aws-cloudformation-infrastructure-as-code) |
-| **Kubernetes DevOps Assignment** | Containerized a Hello World web app using Docker, built a custom Docker image, deployed it on a local Kubernetes cluster using Kind, and exposed it using Kubernetes Deployment and Service YAMLs. | Docker, Kubernetes, Kind, YAML, Port Forwarding | [🔗 GitHub Repo](https://github.com/vishwaraj-kumar/xivtech-kubernetes-devops-assignment) |
+
 
 > 📌 *More exciting projects coming soon...*
 
