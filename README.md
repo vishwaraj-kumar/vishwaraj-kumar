@@ -13,10 +13,10 @@
 
 ### 🚀 About Me
 
-- 🎓 I'm a graduate in Aeronautical Engineering and a certified AWS Cloud Practitioner.
-- ☁️ Passionate about Cloud Computing and currently building hands-on projects using AWS, Linux, Git & GitHub, Python, and DevOps tools.
-- 🔍 Actively looking for entry-level roles in Cloud, DevOps, or Tech Support where I can apply my skills and grow in the tech industry.
-- 🛠️ Always eager to learn, build, and contribute to real-world tech solutions.
+- 🎓 Graduate in Aeronautical Engineering | AWS Certified Cloud Practitioner
+- ☁️ Passionate about Cloud & DevOps | Hands-on with AWS, Linux, Git, GitHub, Python, Docker, Kubernetes, and Infrastructure as Code (CloudFormation)
+- 🔍 Actively seeking entry-level roles in Cloud, DevOps, or Technical Support to apply my skills and grow in the tech industry.
+- 🛠️ Quick learner, team player, and always excited to build real-world tech solutions.
 - 📫 Reach me at **viishwaraj99@gmail.com**
 
 ---
