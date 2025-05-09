@@ -55,7 +55,7 @@
 
 ### 📄 Resume & Portfolio
 
-- 🔗 [**View My Resume**](https://drive.google.com/file/d/1CJWnYY-ZkDYeyAULhP53-vIkRce7xHg0/view?usp=drive_link)
+- 🔗 [**View My Resume**](Resume/VishwarajKumar_Resume.pdf)
 - 🎯 [**Check Out My Work Document**](https://drive.google.com/drive/folders/1ZKGNHpDg2abriMsUlqO4X9jfoaSDJs7w?usp=drive_link)
 
 ---
